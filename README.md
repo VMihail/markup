@@ -24,6 +24,6 @@
         ))
     ));
 ```
-Вызов paragraph.toMarkdown(new StringBuilder()) должен заполнять переданный StringBuilder следующим содержимым:
+Вызов '''java paragraph.toMarkdown(new StringBuilder())''' должен заполнять переданный StringBuilder следующим содержимым:
     __1~2*34*5~6__
 7. Разработанные классы должны находиться в пакете markup.
